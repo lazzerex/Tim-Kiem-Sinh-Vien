@@ -1,0 +1,7 @@
+E:\CSharp_Repo\SinhVien_CTDL\SinhVien_CTDL\obj\Debug\SinhVien_CTDL.csproj.AssemblyReference.cache
+E:\CSharp_Repo\SinhVien_CTDL\SinhVien_CTDL\obj\Debug\SinhVien_CTDL.csproj.CoreCompileInputs.cache
+E:\CSharp_Repo\SinhVien_CTDL\SinhVien_CTDL\bin\Debug\SinhVien_CTDL.exe.config
+E:\CSharp_Repo\SinhVien_CTDL\SinhVien_CTDL\bin\Debug\SinhVien_CTDL.exe
+E:\CSharp_Repo\SinhVien_CTDL\SinhVien_CTDL\bin\Debug\SinhVien_CTDL.pdb
+E:\CSharp_Repo\SinhVien_CTDL\SinhVien_CTDL\obj\Debug\SinhVien_CTDL.exe
+E:\CSharp_Repo\SinhVien_CTDL\SinhVien_CTDL\obj\Debug\SinhVien_CTDL.pdb
